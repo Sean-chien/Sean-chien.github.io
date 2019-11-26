@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    background-color: beige;
+}
+
+.contacts > a {
+    margin-left: 40%;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contacts > .visit {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+}
+
+.contacts > p {
+    font-size: 20px;
+}
+
+.content {
+    margin: 90px auto;
+    width: 770px;
+    height: 500px;
+    padding: 40px;
+    border: 10px solid;
+    border-image: repeating-linear-gradient(-225deg, red 0, red 10px, transparent 10px, transparent 20px, #58a 20px, #58a 30px, transparent 30px, transparent 40px) 20;
+    text-align: center;
+    background-color: white;        
+}
+
+.content > img {
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 320px;
+    right: 350px;
+}
+.content > h3 {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content > .left {
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.content > a > img {
+    width: 48px;
+    height: 48px;
+    margin: 10px;
+  
+}
+.content > a > {
+    margin-left: 40%;
+    
+}

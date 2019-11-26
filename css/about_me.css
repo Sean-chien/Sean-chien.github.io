@@ -1,0 +1,128 @@
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: sans-serif;
+  }
+
+  .website{
+    color: salmon;
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  header{
+    width: 100%;
+    height: 310px;
+    background: lightgoldenrodyellow;
+  }
+  
+  .mySelf > img {
+    float: left;
+    margin-left: 20px;
+    width: 300px;
+    height: 305px;
+  }
+  .myEmail > h4 {
+    font-size: 20px;
+  }
+  .myName > nav > a {
+    float: left;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  .aboutMe > nav > h2,h4 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 36px;
+    font-weight: 200;
+  }
+  section{
+    width: 100%;
+    height: 800px;
+    background: #eae6e666;
+    position: relative;
+  }
+  .sideBar{
+    width: 300px;
+    height: 105%;
+    background: #9adab599;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .sideBar > .personalInfo {
+    padding-left: 20px;
+  }
+  .sideBar > .selfEva{
+    font-size: 16px;
+    margin-left: 12px;
+  }
+  .sideBar > div > h3{
+    color: green;
+    font-weight: 500;
+    margin: 15px;
+  }
+  .sideBar > 
+  .personalInfo {
+    padding: 5px;
+  }
+  .personalInfo > ul > li{
+    margin-top: 8px;
+  }
+  .content{
+    position: absolute;
+    top: 0;
+    left: 330px;
+  }
+  .content > div{
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+  .content > div > h3{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: green;
+    font-weight: 500;
+  }
+  .education > div{
+    margin-bottom: 10px;
+  }
+  .education .para{
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+  .education .para > i,span{
+    font-size: 18px;
+    margin-left: 12px;
+  }
+  .selfEva {
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+  .selfEva .para{
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+  .jobExp > div > .Tech {
+    font-size: 20px;
+    font-family: sans-serif; 
+    color: green; 
+  }
+  .jobExp > div > p,ol{
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  .jobExp > div > ol{
+    margin-left: 30px;
+  }
+  .project > img {
+      width: 30;
+      height: 30;
+  }
+  

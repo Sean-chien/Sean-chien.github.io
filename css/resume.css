@@ -1,0 +1,17 @@
+#thechien {
+    border-radius: 10%;
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: beige;
+}
