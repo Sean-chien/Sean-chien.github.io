@@ -3,12 +3,11 @@ This is my portfolio showing front-end development and works.
 <br>
 Website: https://sean-chien.github.io/
 
-Skills I Used
-Material-ui
-Bootstrap
-jQuery
-JavaScript
-HTML5
-CSS3
-Java
+Skills I Used<br>
+Bootstrap<br>
+jQuery<br>
+JavaScript<br>
+HTML5<br>
+CSS3<br>
+Java<br>
 Android
