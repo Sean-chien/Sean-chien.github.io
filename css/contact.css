@@ -35,7 +35,7 @@ body {
     height: auto;
     position: absolute;
     top: 320px;
-    right: 350px;
+    right: 30%;
 }
 .content > h3 {
     margin-top: 20px;
