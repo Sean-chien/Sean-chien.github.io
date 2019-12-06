@@ -4,7 +4,7 @@ $(document).ready(function() {
         $(this).addClass('active');
     })
     $("nav").click(function(){
-        $("#wea").toggle();
+        $("#wea").toggle("slow");
         });
     new TypeIt('#visiting', {
         strings: ["I'm looking forward to hearing from you!"],
