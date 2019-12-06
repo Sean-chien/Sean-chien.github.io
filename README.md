@@ -3,6 +3,7 @@ This is my portfolio showing front-end development and works.
 <br>
 Website: https://sean-chien.github.io/
 
+Technology<br>
 Skills I Used<br>
 Bootstrap<br>
 jQuery<br>
