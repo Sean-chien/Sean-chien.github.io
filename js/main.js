@@ -3,6 +3,9 @@ $(document).ready(function() {
         $('.navbar-nav a').removeClass('active');
         $(this).addClass('active');
     })
+    $("nav").click(function(){
+        $("#weather").toggle();
+        });
     new TypeIt('#visiting', {
         strings: ["I'm looking forward to hearing from you!"],
         speed: 50,
