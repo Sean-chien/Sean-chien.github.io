@@ -5,10 +5,24 @@ Website: https://sean-chien.github.io/
 
 Technology<br>
 Skills I Used<br>
-Bootstrap<br>
-jQuery<br>
-JavaScript<br>
-HTML5<br>
-CSS3<br>
-Java<br>
-Android
+<li>
+Bootstrap
+</li>
+<li>
+jQuery
+</li>
+<li>  
+JavaScript
+</li>
+<li>
+HTML5
+</li>
+<li>
+CSS3
+</li>
+<li>
+Java
+</li>
+<li>
+Android  
+</li> 
